@@ -1,0 +1,6 @@
+{
+  "name": "Oráculo & Tarot Místico",
+  "description": "Lectura astral e interpretación mística de tiradas de tarot con arcanos mayores, menores e inteligencia artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
